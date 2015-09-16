@@ -4,9 +4,10 @@ import static junit.framework.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
 /**
- * Created by dse on 9/15/2015.
+ * blah blah some modification
  */
 public class BankAccountTest {
+
     @Test
     public void testNewAccountMustHaveAtLeast5() {
         BankAccount account = new BankAccount(5);
